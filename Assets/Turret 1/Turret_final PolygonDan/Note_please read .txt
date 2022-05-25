@@ -1,0 +1,27 @@
+License 
+CC0
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Feel free to use it anyway you want. 
+I hope my work will benefit you in your projects.
+Good luck !
+
+Notes on texture
+The PBR material was made for use in Unreal Engine.
+You can use it in other engines as well but might have to invert the normal map. 
+
+Model
+2400 Tris 
+2048 Texture
+
+
+Feel free to support me 
+
+Like my Facebook page > https://www.facebook.com/GoGoSimple/
+
+Patreon page > https://www.patreon.com/PolygonDan
+
+
+cheers,
+Dan
